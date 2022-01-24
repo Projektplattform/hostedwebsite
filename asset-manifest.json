@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Projektplattform/hostedwebsite.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Projektplattform/hostedwebsite.git/static/js/main.77a0417e.js",
+    "index.html": "/Projektplattform/hostedwebsite.git/index.html",
+    "main.e6c13ad2.css.map": "/Projektplattform/hostedwebsite.git/static/css/main.e6c13ad2.css.map",
+    "main.77a0417e.js.map": "/Projektplattform/hostedwebsite.git/static/js/main.77a0417e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77a0417e.js"
+  ]
+}
