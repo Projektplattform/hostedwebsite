@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Projektplattform/hostedwebsite.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Projektplattform/hostedwebsite.git/static/js/main.445b426f.js",
-    "index.html": "/Projektplattform/hostedwebsite.git/index.html",
-    "main.e6c13ad2.css.map": "/Projektplattform/hostedwebsite.git/static/css/main.e6c13ad2.css.map",
-    "main.445b426f.js.map": "/Projektplattform/hostedwebsite.git/static/js/main.445b426f.js.map"
+    "main.css": "/github.io/hostedwebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/github.io/hostedwebsite/static/js/main.445b426f.js",
+    "index.html": "/github.io/hostedwebsite/index.html",
+    "main.e6c13ad2.css.map": "/github.io/hostedwebsite/static/css/main.e6c13ad2.css.map",
+    "main.445b426f.js.map": "/github.io/hostedwebsite/static/js/main.445b426f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
