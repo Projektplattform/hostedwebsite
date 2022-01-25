@@ -1,7 +1,7 @@
 {
   "name": "marker-map",
   "version": "0.1.0",
-  "homepage": "https://Projektplattform.github.io/marker-map",
+  "homepage": "http://Projektplattform.github.io/marker-map",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
