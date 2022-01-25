@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/marker-map/static/css/main.e6c13ad2.css",
-    "main.js": "/github.io/marker-map/static/js/main.445b426f.js",
-    "index.html": "/github.io/marker-map/index.html",
-    "main.e6c13ad2.css.map": "/github.io/marker-map/static/css/main.e6c13ad2.css.map",
-    "main.445b426f.js.map": "/github.io/marker-map/static/js/main.445b426f.js.map"
+    "main.css": "/marker-map/static/css/main.e6c13ad2.css",
+    "main.js": "/marker-map/static/js/main.445b426f.js",
+    "index.html": "/marker-map/index.html",
+    "main.e6c13ad2.css.map": "/marker-map/static/css/main.e6c13ad2.css.map",
+    "main.445b426f.js.map": "/marker-map/static/js/main.445b426f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
